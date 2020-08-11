@@ -1,0 +1,8 @@
+.projects {
+	width: 25%;
+	border: 1px solid red;
+}
+
+.projects__item {
+	margin: 0 10px;
+}
