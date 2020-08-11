@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "error": "",
+  "data": [
+    {
+      "id": 1,
+      "TaskType": "AddItem",
+      "Desc": "Adds an item specified in parameters to the player's inventory"
+    }
+  ]
+}
